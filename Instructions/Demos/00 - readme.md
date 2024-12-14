@@ -1,6 +1,6 @@
 ---
 demo:
-    title: 'Demonstration Instructions'
+    title: 'Demonstration Instruction'
     module: 'All'
 ---
 
